@@ -1,2 +1,3 @@
 # php-demo
-this is simple php code
+php-demo
+This is Demo PHP index page for example only.
